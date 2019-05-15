@@ -13,6 +13,14 @@ test thinkphp5.1 app's logic by phpstorm 2019
     "topthink/framework": "5.1.*"
     "phpunit/phpunit": "6.*"
 
+**phpstorm setting**
+
+File | Settings | Languages & Frameworks | PHP | Test Frameworks
+
+    PHPUnit library -> Path to phpunit.phar -> _YOUR_phpunit-*.phar
+
+    Test Runner -> Default bootstrap file:  __YOUR_APP__\vendor\wsteel\tp51unit\src\wsteel\tp51unit\TestCase.php
+
 **demo**
 
 filename
