@@ -14,7 +14,7 @@
   "autoload": {
     "psr-4": {
       "tests\\": "tests",
-      "wsteel\\tp50unit\\": "src/wsteel/tp51unit"
+      "wsteel\\tp51unit\\": "src/wsteel/tp51unit"
     }
   },
   "keywords": [
